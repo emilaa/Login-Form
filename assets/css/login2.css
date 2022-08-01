@@ -63,9 +63,10 @@ body{
   }
 
   .main-font{
-      margin-top: 250px;
-      margin-left: 500px;
+      margin-top: 140px;
+      margin-left: 320px;
       width: 900px;
       height: 500px;
       background-color: #3ED8E8;
+      border-radius: 20px;
   }

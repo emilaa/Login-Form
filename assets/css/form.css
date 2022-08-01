@@ -11,9 +11,10 @@ h1{
 
 .main{
     width: 800px;
-    height: 620px;
+    height: 650px;
     background-color: white;
-    margin-left: 580px;
+    margin-left: 380px;
+    border-radius: 20px;
 }
 
 .main1{
@@ -36,12 +37,27 @@ h1{
 
 .yas{
     width: 50px;
+    border-radius: 3px;
 }
 
 .boy{
     width: 50px;
+    border-radius: 3px;
 }
 
 .ceki{
     width: 50px;
+    border-radius: 3px;
+}
+
+.ad{
+    border-radius: 3px;
+}
+
+.soyad{
+    border-radius: 3px;
+}
+
+.sifre{
+    border-radius: 3px;
 }
