@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: montserrat;
+    background-color: #C2D8F1;
+}
+
+h1{
+    text-align: center;
+}
+
+.main{
+    width: 800px;
+    height: 620px;
+    background-color: white;
+    margin-left: 580px;
+}
+
+.main1{
+    margin-left: 30px;
+}
+
+.tesdiqle{
+    width: 100px;
+    height: 40px;
+    background-color: #2981E4;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+    margin-left: 300px;
+}
+
+.tesdiqle:hover{
+    background-color: #579FF0;
+}
+
+.yas{
+    width: 50px;
+}
+
+.boy{
+    width: 50px;
+}
+
+.ceki{
+    width: 50px;
+}
